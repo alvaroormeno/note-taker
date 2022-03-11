@@ -1,8 +1,8 @@
 # note-taker
 
 ## Links
-LIVE HEROKU PAGE:https://aoz-note-taker.herokuapp.com/
-REPO:https://github.com/alvaroormeno/note-taker
+LIVE HEROKU PAGE: https://aoz-note-taker.herokuapp.com/
+REPO: https://github.com/alvaroormeno/note-taker
 
 ## Description
 An easy to use application that can be used to write and save notes. 
